@@ -37,10 +37,11 @@ Git & GitHub
 
 📫 Connect with Me
 
-GitHub: yonatannn111
+GitHub: https://github.com/yonatannn111/yonatannn111/
 
 LinkedIn: https://www.linkedin.com/in/yonatan-getachew/
 
 Email: yonatangetachew612@gmail.com
 
 ✨ “Code it simple, scale it strong — powered by Go.”
+
