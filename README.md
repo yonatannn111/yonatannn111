@@ -2,7 +2,6 @@
 
 💻 Computer Science Student @ Saint Mary’s University
 ⚙️ Backend Developer in Go
-📂 Experience with Node.js
 
 🚀 About Me
 
@@ -44,4 +43,5 @@ LinkedIn: https://www.linkedin.com/in/yonatan-getachew/
 Email: yonatangetachew612@gmail.com
 
 ✨ “Code it simple, scale it strong — powered by Go.”
+
 
